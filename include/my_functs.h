@@ -1,5 +1,5 @@
 /*
-** ft_functs.h for ft_functs.h in /home/kiwi/Downloads/Evalexpr/include
+** my_functs.h for my_functs.h in /home/kiwi/Downloads/Evalexpr/include
 ** 
 ** Made by Lyes Kaïdi
 ** Login   <kiwi@epitech.net>

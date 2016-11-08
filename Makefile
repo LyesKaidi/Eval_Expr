@@ -1,3 +1,4 @@
+/*
 ##
 ## Makefile for Makefile in /home/kiwi/CPool_evalexpr
 ##
@@ -7,6 +8,7 @@
 ## Started on  Fri Oct 28 17:51:53 2016 Lyes Kaïdi
 ## Last update Fri Oct 28 17:56:07 2016 Lyes Kaïdi
 ##
+*/
 
 NAME    = eval_expr
 
